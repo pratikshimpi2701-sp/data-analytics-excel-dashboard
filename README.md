@@ -5,3 +5,15 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 
 ##dataset used
 -<a href="https://github.com/pratikshimpi2701-sp/data-analytics-excel-dashboard/blob/main/excel%20project%20Vrinda%20Store%20Data%20Analysis%20(version%201).xlsx">dataset</a>
+
+##Questions (KPIs)
+-What is the total sales amount?
+-How many total orders were placed?
+-What is the average order value (AOV)?
+-Which month recorded the highest sales and orders?
+-Which sales channel generated the highest revenue?
+-Which state contributed the highest sales?
+-Which product category had the highest sales?
+-What is the sales distribution by gender (Men vs Women)?
+-Which age group contributed the most sales?
+-What is the order status distribution (Delivered, Cancelled, Returned, Refunded)?
