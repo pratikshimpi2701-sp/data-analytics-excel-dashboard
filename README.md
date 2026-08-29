@@ -4,12 +4,12 @@
 The objective of this project is to analyze Vrinda Store's 2022 sales data using Microsoft Excel and create an interactive dashboard that provides insights into sales trends, customer demographics, product categories, order status, top-performing states, and sales channels. The project helps transform raw sales data into meaningful business insights for better decision-making.
 
 
-##dataset used
+## dataset used
 
 -<a href="https://github.com/pratikshimpi2701-sp/data-analytics-excel-dashboard/blob/main/excel%20project%20Vrinda%20Store%20Data%20Analysis%20(version%201).xlsx">dataset</a>
 
 
-##Questions (KPIs)
+## Questions (KPIs)
 
 -What is the total sales amount?
 
@@ -34,7 +34,7 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 -Dashboard Interaction <a href="https://github.com/pratikshimpi2701-sp/data-analytics-excel-dashboard/blob/main/Screenshot%202026-08-29%20160333.png">View Dashboard</a>
 
 
-##Process
+## Process
 
 -Collected and imported the Vrinda Store sales dataset into Microsoft Excel.
 
@@ -51,12 +51,12 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 -Designed an interactive dashboard to display key KPIs and business insights in a clear and user-friendly format.
 
 
-##Dashboard
+## Dashboard
 
 <img width="1408" height="502" alt="Screenshot 2026-08-29 160333" src="https://github.com/user-attachments/assets/24abad67-3b78-4989-afef-b5adf6acadf6" />
 
 
-##Project insights
+## Project insights
 
 -Women customers contributed the highest share of total sales compared to men.
 
@@ -69,7 +69,7 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 -The highest sales were recorded during the peak festive season months.
 
 
-##Final  conclusion
+## Final  conclusion
 
 The Vrinda Store Data Analysis project successfully analyzed sales data using Excel to identify key business trends and customer purchasing patterns. The analysis helped understand sales performance, order trends, top-performing products, customer demographics, and sales channels. The dashboard provides clear and interactive insights that can support better business decisions, improve sales strategies, and identify areas for growth.
 
