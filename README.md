@@ -11,6 +11,7 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 ##Questions (KPIs)
 
 -What is the total sales amount?
+
 -How many total orders were placed?
 -What is the average order value (AOV)?
 -Which month recorded the highest sales and orders?
