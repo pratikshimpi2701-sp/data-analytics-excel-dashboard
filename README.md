@@ -31,3 +31,6 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 
 ##Dashboard
 
+<img width="1408" height="502" alt="Screenshot 2026-08-29 160333" src="https://github.com/user-attachments/assets/24abad67-3b78-4989-afef-b5adf6acadf6" />
+
+
