@@ -8,6 +8,7 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 
 -<a href="https://github.com/pratikshimpi2701-sp/data-analytics-excel-dashboard/blob/main/excel%20project%20Vrinda%20Store%20Data%20Analysis%20(version%201).xlsx">dataset</a>
 
+
 ##Questions (KPIs)
 
 -What is the total sales amount?
@@ -32,6 +33,7 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 
 -Dashboard Interaction <a href="https://github.com/pratikshimpi2701-sp/data-analytics-excel-dashboard/blob/main/Screenshot%202026-08-29%20160333.png">View Dashboard</a>
 
+
 ##Process
 
 -Collected and imported the Vrinda Store sales dataset into Microsoft Excel.
@@ -48,9 +50,11 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 
 -Designed an interactive dashboard to display key KPIs and business insights in a clear and user-friendly format.
 
+
 ##Dashboard
 
 <img width="1408" height="502" alt="Screenshot 2026-08-29 160333" src="https://github.com/user-attachments/assets/24abad67-3b78-4989-afef-b5adf6acadf6" />
+
 
 ##Project insights
 
@@ -63,6 +67,7 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 -Maharashtra, Karnataka, and Uttar Pradesh were among the highest revenue-generating states.
 
 -The highest sales were recorded during the peak festive season months.
+
 
 ##Final  conclusion
 
