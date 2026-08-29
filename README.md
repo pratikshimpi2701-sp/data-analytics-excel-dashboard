@@ -13,13 +13,21 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 -What is the total sales amount?
 
 -How many total orders were placed?
+
 -What is the average order value (AOV)?
+
 -Which month recorded the highest sales and orders?
+
 -Which sales channel generated the highest revenue?
+
 -Which state contributed the highest sales?
+
 -Which product category had the highest sales?
+
 -What is the sales distribution by gender (Men vs Women)?
+
 -Which age group contributed the most sales?
+
 -What is the order status distribution (Delivered, Cancelled, Returned, Refunded)?
 
 -Dashboard Interaction <a href="https://github.com/pratikshimpi2701-sp/data-analytics-excel-dashboard/blob/main/Screenshot%202026-08-29%20160333.png">View Dashboard</a>
@@ -27,11 +35,17 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 ##Process
 
 -Collected and imported the Vrinda Store sales dataset into Microsoft Excel.
+
 -Cleaned the data by removing duplicates, handling missing values, and correcting data formats.
+
 -Processed the dataset using Excel formulas and organized it into a structured format.
+
 -Created Pivot Tables to summarize sales, orders, customers, states, and product categories.
+
 -Built Pivot Charts to visualize sales trends and business performance.
+
 -Added Slicers for interactive filtering by month, gender, category, and sales channel.
+
 -Designed an interactive dashboard to display key KPIs and business insights in a clear and user-friendly format.
 
 ##Dashboard
@@ -41,9 +55,13 @@ The objective of this project is to analyze Vrinda Store's 2022 sales data using
 ##Project insights
 
 -Women customers contributed the highest share of total sales compared to men.
+
 -Adult customers (30–49 years) generated the maximum revenue among all age groups.
+
 -Amazon was the top-performing sales channel, followed by Myntra and Flipkart.
+
 -Maharashtra, Karnataka, and Uttar Pradesh were among the highest revenue-generating states.
+
 -The highest sales were recorded during the peak festive season months.
 
 ##Final  conclusion
